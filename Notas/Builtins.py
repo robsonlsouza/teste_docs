@@ -1,0 +1,1 @@
+print(__builtins__.type("teste"))

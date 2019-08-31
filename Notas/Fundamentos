@@ -1,0 +1,20 @@
+# Primeiros exemplos
+
+print('Primeiro programa')
+print(1 + 2)
+
+# Tipos Básicos
+
+print(True)
+print(False)
+print(1.2 + 1)
+print('Aqui eu falo na minha lingua!')
+print('Voce e ' + 3 * 'muito' + ' legal')
+print([1, 2, 3])
+print({'nome': 'Robson Luís de Souza', 'idade': 26})
+
+lista = {1, 2, 3}
+dicionario = {'nome': 'Robson Luís de Souza', 'idade': 26}
+
+print(lista)
+print(dicionario)
